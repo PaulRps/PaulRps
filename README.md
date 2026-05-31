@@ -48,5 +48,5 @@ Currently focused on identity proofing, biometric integrations, configurable ver
 
 ## Connect
 
-- LinkedIn: [your LinkedIn URL]
-- Email: [your professional email]
+- LinkedIn: https://www.linkedin.com/in/paulo-silva-a981a9a7/?locale=en-US
+- Email: paulosilvajp0@gmail.com
