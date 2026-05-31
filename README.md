@@ -46,6 +46,9 @@ Currently focused on identity proofing, biometric integrations, configurable ver
 - Developed solutions serving government, financial services, and digital certification sectors.
 - Contributed to the Hyperledger Aries ecosystem.
 
+## Porfolio page
+- Link: https://paulrps-dev.netlify.app/
+
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/paulo-silva-a981a9a7/?locale=en-US
