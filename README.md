@@ -1,16 +1,52 @@
-## Hi there 👋
+# Paulo Ricardo Pereira da Silva
 
-<!--
-**PaulRps/PaulRps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 8+ years of experience building distributed systems, cloud-native applications, and digital identity platforms.
 
-Here are some ideas to get you started:
+Currently focused on identity proofing, biometric integrations, configurable verification journeys, and Self-Sovereign Identity (SSI) solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+- Digital Identity
+- Identity Verification
+- Identity Proofing
+- Biometric Integrations
+- Self-Sovereign Identity (SSI)
+- Distributed Systems
+- Software Architecture
+- Cloud-Native Applications
+
+## Technologies
+
+### Backend
+- Kotlin
+- Java
+- TypeScript
+- Spring Boot
+- NestJS
+
+### Mobile
+- Flutter
+
+### Cloud & DevOps
+- Google Cloud Platform
+- Docker
+- Kubernetes
+
+### Identity & Trust
+- DIDComm
+- Hyperledger Aries
+- Verifiable Credentials
+- FaceTec
+- LibVcx
+
+## Professional Highlights
+
+- Designed and developed configurable digital identity verification platforms.
+- Integrated biometric providers for liveness, OCR, facial matching, and identity data validation.
+- Developed solutions serving government, financial services, and digital certification sectors.
+- Contributed to the Hyperledger Aries ecosystem.
+
+## Connect
+
+- LinkedIn: [your LinkedIn URL]
+- Email: [your professional email]
